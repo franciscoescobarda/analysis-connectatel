@@ -52,7 +52,7 @@ Haz click en el siguiente botón
 
 O
 
-1. Abre el archivo jpynb. en Github\
+1. Abre el archivo jpynb. en Github
 2. Haz click en **Open in colab**
    
 **Guía de reproducción.**
